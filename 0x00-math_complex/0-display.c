@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
-  * display_complex_numbers - prints complex numbers
+  * display_complex_number - prints complex numbers
   * @c: complex number
   */
 
